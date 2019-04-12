@@ -98,4 +98,4 @@ client.on("ready", async () => {
 	client.user.setActivity(`${botSettings.prefix}help | play.pvphq.net`, {type: "WATCHING"});
   });
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTY2MDY2NTU5NTIxNjUyNzQ3.XK_vlw.dAr1Nql8X9DMCuFCmTnWu3Nu30Q");
